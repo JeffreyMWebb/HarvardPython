@@ -13,5 +13,5 @@ this is a comment
 print("copied to other machine --test")
 
 for x in range(10):
-  print(x)
+  print("number: ", x )
  
